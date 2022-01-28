@@ -4,6 +4,7 @@ int main()
 {
 
     cout<<5*10;
+    cout<<10*5;
 
     return 0;
 }
